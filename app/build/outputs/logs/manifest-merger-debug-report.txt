@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-10:12
-INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-10:12
-INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-10:12
-INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-10:12
+ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:1-11:12
 MERGED from [com.google.android.material:material:1.12.0] /home/manh/.gradle/caches/transforms-4/08659e7d05110787672e7473a2beaae5/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/manh/.gradle/caches/transforms-4/b3f5e068f5d8202b66b224540a898a1e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/manh/.gradle/caches/transforms-4/d583f6349216360e46cc0b9cbae1b8b9/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
@@ -55,8 +55,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/manh/.grad
 	xmlns:android
 		ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:2:3-9:17
-INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:2:3-9:17
+ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:2:3-10:17
+INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:2:3-10:17
 MERGED from [com.google.android.material:material:1.12.0] /home/manh/.gradle/caches/transforms-4/08659e7d05110787672e7473a2beaae5/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/manh/.gradle/caches/transforms-4/08659e7d05110787672e7473a2beaae5/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/manh/.gradle/caches/transforms-4/b3f5e068f5d8202b66b224540a898a1e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -90,13 +90,17 @@ ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidM
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:4:7-7:23
 action#android.intent.action.MAIN
-ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:5:9-60
+ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:5:9-61
 	android:name
 		ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:5:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:6:9-68
+ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:6:9-69
 	android:name
 		ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:6:19-66
+activity#com.example.giuaki.HomeActivity
+ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:9:5-55
+	android:name
+		ADDED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml:9:15-43
 uses-sdk
 INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /run/media/manh/01DB60055A8FAD30/Android/giuaki/app/src/main/AndroidManifest.xml
