@@ -1,0 +1,17 @@
+<resources>
+  <color name="md3_primary">#6750A4</color>
+  <color name="md3_onPrimary">#FFFFFF</color>
+  <color name="md3_primaryContainer">#EADDFF</color>
+  <color name="md3_onPrimaryContainer">#21005D</color>
+  <color name="md3_secondary">#625B71</color>
+  <color name="md3_onSecondary">#FFFFFF</color>
+  <color name="md3_secondaryContainer">#E8DEF8</color>
+  <color name="md3_onSecondaryContainer">#1D192B</color>
+  <color name="md3_surface">#FFFBFE</color>
+  <color name="md3_onSurface">#1C1B1F</color>
+  <color name="md3_background">#FFFBFE</color>
+  <color name="md3_onBackground">#1C1B1F</color>
+  <color name="md3_error">#B3261E</color>
+  <color name="md3_onError">#FFFFFF</color>
+  <color name="md3_outline">#79747E</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+  <style name="Theme.giuaki" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/md3_primary</item>
+    <item name="colorOnPrimary">@color/md3_onPrimary</item>
+    <item name="colorPrimaryContainer">@color/md3_primaryContainer</item>
+    <item name="colorOnPrimaryContainer">@color/md3_onPrimaryContainer</item>
+    <item name="colorSecondary">@color/md3_secondary</item>
+    <item name="colorOnSecondary">@color/md3_onSecondary</item>
+    <item name="colorSecondaryContainer">@color/md3_secondaryContainer</item>
+    <item name="colorOnSecondaryContainer">@color/md3_onSecondaryContainer</item>
+    <item name="colorSurface">@color/md3_surface</item>
+    <item name="colorOnSurface">@color/md3_onSurface</item>
+    <item name="android:statusBarColor">?attr/colorSurface</item>
+  </style>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_delete.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_share.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_home.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_settings.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_user.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_camera.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_search.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/drawable_ic_add.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.giuaki.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.giuaki.app-main-33:/layout/activity_main.xml"
+    }
+]
