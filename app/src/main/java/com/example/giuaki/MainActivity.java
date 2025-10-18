@@ -24,7 +24,10 @@ public class MainActivity extends AppCompatActivity {
         ipName.setError("Login faild !!!");
         return;
       }
-      startActivity(new Intent(this, HomeActivity.class));
+      Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+      intent.putExtra("userName", name);
+      intent.putExtra("userPass", pass);
+      startActivity(intent);
     });
   }
 }
